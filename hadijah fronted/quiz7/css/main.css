@@ -1,0 +1,22 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+}
+
+.content{
+	width: 600px;
+	margin: auto 0px;
+	background-color: #fff;
+	min-height: 500px;
+}
+
+
+.media{
+	width: 600px;
+	min-height: 200px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+.media.map{
+	width: 100%;
+}

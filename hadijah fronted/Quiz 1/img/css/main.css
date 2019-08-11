@@ -1,0 +1,53 @@
+body{
+
+	  
+	background-color:pink;
+}
+
+h1{
+	color: blue;
+	background-color: black;
+	border-width:5px;
+	border-color: white;
+	border-style: solid;
+	padding:40px;
+	text-align: center;
+
+}
+header{
+	background-color: blue;
+
+}
+header ul li{
+	display: inline;
+}
+body{
+	margin: 0px;
+	padding: 0px
+	background-color: grey;
+}
+
+header{
+	background-color:  white;
+	border-bottom-style: solid;
+	border border-bottom-color: black;
+	border border-bottom-width: 1px;
+	 padding-left: 30px;
+	 padding-right: 30px; 
+}
+header img{
+	width: 200px;
+}
+header ul{
+	text-align: right;
+}
+header ul li a{
+	text-decoration: none;
+	color: red;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 16px;
+}
+
+
+}
